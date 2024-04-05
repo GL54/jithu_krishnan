@@ -1,0 +1,46 @@
+  ____ _     ____  
+ / ___| |   | ___| 
+| |  _| |   |___ \ 
+| |_| | |___ ___) |
+ \____|_____|____/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+
+CLONE USER
+
+Hello , i'm Jithu krishnan , and i'm currently using this design for my portfolio
+all the design and development right are still owned by Hamish Williams
+
+DESIGNER | デザイナー
+
+Hamish Williams
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+twitter.com/hamishmw
+github.com/hamishmw
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Remix
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8
