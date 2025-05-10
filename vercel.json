@@ -1,7 +1,10 @@
 {
-  "build": {
-    "env": {
-      "NODE_VERSION": "18"
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "outputDirectory": "public",
+  "functions": {
+    "api/index.js": {
+      "runtime": "nodejs18.x"
     }
   }
 }
